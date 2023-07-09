@@ -1,6 +1,7 @@
 # sally-openAI
 A voice controlled virtual assistant that helps you get answers to your question with the help of chat GPT and  generates AI images with the help of Dall-E
-![IMG_9366](https://github.com/prashik-777/sally-openAI/assets/104124011/87d3b518-bdca-4dd8-9092-d08336524713)
+![IMG_9366](https://github.com/prashik-777/sally-openAI/assets/104124011/87d3b518-bdca-4dd8-9092-d08336524713){:height="10px" width="10px"}.
+
 Generate the image of a dancing squirrel
 ![IMG_9371](https://github.com/prashik-777/sally-openAI/assets/104124011/ea49639f-d2df-49ce-a81f-298fa7d3becc)
 What is Quantum Computing? 
